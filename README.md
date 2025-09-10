@@ -22,11 +22,12 @@ This project builds on my learnings from the course **“Hands-On AI: Building Y
 
 ---
 
-## ⚙️ Tech Tools 
+## ⚙️ Tech Tools & Data
 - **Python**  
 - **SpaCy** for NLP preprocessing  
 - **HuggingFace Transformers** using the DistilBERT model
-- **Pandas, Seaborn, Matplotlib** libraries for data handling & visualization 
+- **Pandas, Seaborn, Matplotlib** libraries for data handling & visualization
+- **Data** used are created with ChatGPT (100 reviews for cosmetic products)
 
 ---
 
